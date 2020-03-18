@@ -1,8 +1,4 @@
 # itsy_bitsy
-its bitsy spider
+itsy bitsy spider
 
-Dear universe, 
-
-It is finally time for me to take this journey.
-
-//Black hole
+simulates spiders climbing up the drain
